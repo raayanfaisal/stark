@@ -14,7 +14,7 @@
       <div class="heading">
         <img src="" alt="">
         <div class="info">
-          <h3><a href="#">{{ Auth::user()->name }}</a></h3>
+          <h3><a href="#">Kali investments</a></h3>
           <p>Welcome back,</p>
         </div>
       </div>

@@ -42,7 +42,7 @@ function Price() {
 
     var tax = hiddenSub * itemTax;
 
-    //var discountTotal = salesDiscount / 100 * hiddenSub;
+    var discountTotal = salesDiscount / 100 * hiddenSub;
 
     var subTotal = hiddenSub + tax;
 
